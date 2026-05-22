@@ -1,7 +1,10 @@
+protobuf>=4.21.0
+opentelemetry-proto>=1.20.0
+chromadb>=0.4.22
+langchain-chroma
 streamlit
 langchain
-langchain-openai
-langchain-chroma
+langchain-openaia
 ttkbootstrap
 python-dotenv
 openai
